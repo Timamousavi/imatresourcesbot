@@ -1,0 +1,4 @@
+id,title,type,subject,topic,year,description,drive_url,active
+BIO-001,Cell Biology Essentials,note,Biology,Cell Biology,,Concise IMAT revision notes,https://drive.google.com/file/d/EXAMPLE/view,yes
+CHEM-001,IMAT Chemistry Textbook,book,Chemistry,General Chemistry,,Recommended chemistry reference,https://drive.google.com/file/d/EXAMPLE/view,yes
+PP-2025,IMAT 2025 Past Paper,past_paper,Past Papers,Full Exam,2025,Original paper and answer key,https://drive.google.com/file/d/EXAMPLE/view,yes
